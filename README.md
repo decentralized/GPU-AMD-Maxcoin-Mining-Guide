@@ -1,0 +1,1 @@
+# GPU-AMD-Maxcoin-Mining-Guide
